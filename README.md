@@ -8,8 +8,8 @@ AI/ML &nbsp;•&nbsp; DATA SCIENCE &nbsp;•&nbsp; SOFTWARE ENGINEERING &nbsp;�
 
 
 
-Final year Computer Science undergraduate focused on **Applied AI, Machine Learning, Data Science, and Software Engineering.**
-Building intelligent systems from data, models, and reliable software.
+Final year Computer Science undergraduate
+<br> Focused on building intelligent systems from data, models, and reliable software.
 
 
 <br>
