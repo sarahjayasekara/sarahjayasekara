@@ -2,7 +2,7 @@
 
 <h1>Sarathi Jayasekara</h1>
 
-### `AI/ML` · `DATA SCIENCE` · `SOFTWARE ENGINEERING`
+### `AI/ML` · `DATA SCIENCE` · `SOFTWARE ENGINEERING` · `QA`
 
 **Building intelligent systems from data, models, and reliable software.**
 
@@ -139,14 +139,19 @@ Features multiple camera perspectives, vehicle controls, textured environments, 
 
 
 ## 🧠 Areas I'm Exploring
-
-Applied AI             →  intelligent systems for real-world problems
-LLMs & RAG             →  agents, retrieval & contextual reasoning
-Causal & Graph ML      →  discovery, networks & shock propagation
-NLP                    →  information extraction & language understanding
-Computer Vision        →  deep learning from visual data
-Data Science           →  modeling, experimentation & insight
-Software Engineering   →  reliable, scalable & maintainable systems
-Quality Engineering    →  automation, APIs & software reliability
-
+Applied AI → intelligent systems for real-world problems
+<br><br>
+LLMs & RAG → agents, retrieval & contextual reasoning
+<br><br>
+Causal & Graph ML → discovery, networks & shock propagation
+<br><br>
+NLP → information extraction & language understanding
+<br><br>
+Computer Vision → deep learning from visual data
+<br><br>
+Data Science → modeling, experimentation & insight
+<br><br>
+Software Engineering → reliable, scalable & maintainable systems
+<br><br>
+Quality Engineering → automation, APIs & software reliability
 
