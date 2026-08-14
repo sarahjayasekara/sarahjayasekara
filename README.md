@@ -6,7 +6,7 @@
 AI/ML &nbsp;•&nbsp; DATA SCIENCE &nbsp;•&nbsp; SOFTWARE ENGINEERING &nbsp;•&nbsp; QUALITY ASSURANCE
 </h3>
 
-**Building intelligent systems from data, models, and reliable software.**
+
 
 Final year Computer Science undergraduate focused on **Applied AI, Machine Learning, Data Science, and Software Engineering.**
 
@@ -156,4 +156,7 @@ Data Science → modeling, experimentation & insight
 Software Engineering → reliable, scalable & maintainable systems
 <br><br>
 Quality Engineering → automation, APIs & software reliability
+
+
+****Building intelligent systems from data, models, and reliable software.****
 
