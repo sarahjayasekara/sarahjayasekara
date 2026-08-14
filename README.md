@@ -1,29 +1,31 @@
 <div align="center">
 
-Sarathi Jayasekara
+### `AI/ML` · `DATA` · `SOFTWARE ENGINEERING`
 
+**Building intelligent systems from data, models, and reliable software.**
+
+Final-year Computer Science undergraduate focused on **Applied AI, Machine Learning, Data Science, and Software Engineering.**
 
 <br>
 
-<p align="center">
-  <b>AI & Machine Learning · Data Science · Software Engineering · Quality Assurance</b>
-</p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarathijayasekara9@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sj7b017a221">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;
+<a href="https://github.com/sarahjayasekara">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-  Final-year Computer Science undergraduate building intelligent systems, data-driven applications, and reliable software.
-</p>
+<br><br>
 
-<p align="center">
-<a href="mailto:sarathijayasekara9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-18181B?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/sj7b017a221">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/sarahjayasekara">
-    <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+`Deep Learning` · `NLP` · `LLMs & RAG` · `Causal ML` · `Graph Neural Networks` · `Computer Vision`
+
+</div>
+
 
 ---
 
@@ -146,20 +148,3 @@ Software Engineering   →  reliable, scalable & maintainable systems
 Quality Engineering    →  automation, APIs & software reliability
 
 
-## 🌐 Connect
-
-<p align="center">
-
-**Sarathi Jayasekara**
-
-<a href="mailto:sarathijayasekara9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-18181B?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
- •  <a href="https://linkedin.com/in/sj7b017a221">LinkedIn</a>
- •  <a href="https://github.com/sarahjayasekara">GitHub</a>
-
-</p>
-
-<p align="center">
-  <sub>Building at the intersection of data, intelligence and software.</sub>
-</p>
