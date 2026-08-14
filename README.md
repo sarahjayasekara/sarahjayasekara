@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sarathi Jayasekara👋
 
-<!--
-**sarahjayasekara/sarahjayasekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in AI & Machine Learning,
+Data Science, Full-Stack development and Quality Assurance Engineering.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👁️ QA-Automation-and-API-Testing-Framework
+- 🔬 Biomedical-Named-Entity-Recognition-Pipeline
+- 🍃 Tea-Leaf-Disease-Classifier
+- 🌐 Full-Stack Web Projects
+- 🗼 Paris Drive 3D — C++ / OpenGL
+- 📈 Causal GNN framework for Influence and Shock Propagation in the Colombo Stock Exchange
+
+## 🛠 Tech Stack
+
+C++ • Python • JavaScript • TypeScript • React • Next.js
+OpenGL • OpenCV • Git • MySQL
+
+## 📊 GitHub Stats
+
+[stats cards here]
+
+## 🌐 Connect With Me
+
+LinkedIn • Email
