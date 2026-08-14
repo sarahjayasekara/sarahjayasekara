@@ -19,7 +19,7 @@ Final year Computer Science undergraduate
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/sj7b017a221">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/sarahjayasekara">
