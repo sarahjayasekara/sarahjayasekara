@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Sarathi Jayasekara — AI, Data & Software Engineering">
-</p>
+<div align="center">
+
+Sarathi Jayasekara
+
+
+<br>
 
 <p align="center">
   <b>AI & Machine Learning · Data Science · Software Engineering · Quality Assurance</b>
@@ -21,19 +24,6 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
----
-
-## ⚡ Focus
-
-```text
-AI / ML              ██████████████████░░
-Data Science         █████████████████░░░
-Software Engineering ██████████████████░░
-Quality Assurance    ████████████████░░░░
-```
-
-My interests span **AI & Machine Learning, Data Science, Full-Stack Development, and Quality Assurance Engineering** — with a focus on turning technical ideas into practical, well-engineered systems.
 
 ---
 
@@ -158,16 +148,15 @@ Features multiple camera perspectives, vehicle controls, textured environments, 
 
 ## 🧠 Areas I'm Exploring
 
-```text
-Machine Learning        →  intelligent models & applied AI
-Data Science            →  extracting insight from complex data
-Graph Learning          →  networks, causality & propagation
-Software Engineering    →  scalable and maintainable systems
-Quality Engineering     →  automation, APIs & software reliability
-Computer Vision         →  learning from visual information
-```
+Applied AI             →  intelligent systems for real-world problems
+LLMs & RAG             →  agents, retrieval & contextual reasoning
+Causal & Graph ML      →  discovery, networks & shock propagation
+NLP                    →  information extraction & language understanding
+Computer Vision        →  deep learning from visual data
+Data Science           →  modeling, experimentation & insight
+Software Engineering   →  reliable, scalable & maintainable systems
+Quality Engineering    →  automation, APIs & software reliability
 
----
 
 ## 🌐 Connect
 
