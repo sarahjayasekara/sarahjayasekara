@@ -1,95 +1,67 @@
-# Hi, I'm Sarathi Jayasekara👋
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Sarathi Jayasekara — AI, Data & Software Engineering">
+</p>
 
-Final year Computer Science undergraduate student interested in AI & Machine Learning,
-Data Science, Full-Stack development and Quality Assurance Engineering.
+<p align="center">
+  <b>AI & Machine Learning · Data Science · Software Engineering · Quality Assurance</b>
+</p>
+
+<p align="center">
+  Final-year Computer Science undergraduate building intelligent systems, data-driven applications, and reliable software.
+</p>
+
+<p align="center">
+  <a href="mailto:sarathijayasekara9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-18181B?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/sj7b017a221">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/sarahjayasekara">
+    <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+## ⚡ Focus
+
+```text
+AI / ML              ██████████████████░░
+Data Science         █████████████████░░░
+Software Engineering ██████████████████░░
+Quality Assurance    ████████████████░░░░
+```
+
+My interests span **AI & Machine Learning, Data Science, Full-Stack Development, and Quality Assurance Engineering** — with a focus on turning technical ideas into practical, well-engineered systems.
+
+---
 
 ## 🚀 Featured Projects
-
-
-- 👁️ QA-Automation-and-API-Testing-Framework
-- 🔬 Biomedical-Named-Entity-Recognition-Pipeline
-- 🍃 Tea-Leaf-Disease-Classifier
-- 🌐 Full-Stack Web Projects
-- 🗼 Paris Drive 3D — C++ / OpenGL
-- 📈 Causal GNN framework for Influence and Shock Propagation in the Colombo Stock Exchange
-
-## 🛠 Tech Stack
-
-C++ • Python • JavaScript • TypeScript • React • Next.js
-OpenGL • OpenCV • Git • MySQL
-
-## 📊 GitHub Stats
-
-[stats cards here]
-
-## 🌐 Connect With Me
-
-LinkedIn • Email
-
-
-<div align="center">
-
-# Sarathi Jayasekara
-
-### Software Engineering · Computer Graphics · Computer Vision
-
-Building interactive systems, visual applications, and full-stack software.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge\&logo=gmail\&logoColor=white)](#)
-
-</div>
-
----
-
-## ⚡ What I Build
-
-I enjoy working across the stack — from **C++ graphics applications and computer vision systems** to **modern web platforms**.
-
-My projects usually sit somewhere between:
-
-**interactive software · visual computing · full-stack systems · experimentation**
-
----
-
-## 🧩 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗼 Paris Drive 3D
+### 👁️ QA Automation & API Testing Framework
 
-A Paris-inspired virtual driving simulation built with **C++ and OpenGL**.
+A software quality engineering project focused on building reusable automated testing workflows for application and API validation.
 
-**Highlights**
+**Focus**
 
-* Real-time vehicle control
-* First-person, third-person and top-down cameras
-* Textured 3D environment
-* Animated traffic lights
-* Custom Eiffel Tower geometry
-
-`C++` `OpenGL` `GLUT` `Computer Graphics`
+`QA Automation` `API Testing` `Test Engineering`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 👁 Parking Lot Monitoring
+### 🔬 Biomedical Named Entity Recognition
 
-A real-time parking-space monitoring system using **Python and OpenCV**.
+An NLP pipeline for identifying and extracting biomedical entities from unstructured text.
 
-**Highlights**
+**Focus**
 
-* Live occupied/free slot detection
-* Visual monitoring interface
-* Configurable parking regions
-* Computer vision pipeline
-
-`Python` `OpenCV` `Computer Vision`
+`NLP` `Named Entity Recognition` `Machine Learning` `Biomedical AI`
 
 </td>
 </tr>
@@ -97,35 +69,53 @@ A real-time parking-space monitoring system using **Python and OpenCV**.
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Escape Room 3D
+### 🍃 Tea Leaf Disease Classifier
 
-A first-person 3D escape-room experience built using **OpenGL**.
+A computer vision system for identifying diseases from tea leaf images using machine learning techniques.
 
-**Highlights**
+**Focus**
 
-* Interactive environment
-* 3D object transformations
-* Camera navigation
-* Puzzle-oriented gameplay
-
-`C++` `OpenGL` `3D Graphics`
+`Computer Vision` `Deep Learning` `Image Classification`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 Resource Management System
+### 📈 Causal GNN — Colombo Stock Exchange
 
-A full-stack resource-management platform built for managing faculty resources and scheduling.
+A Causal Graph Neural Network framework for modelling **influence and shock propagation** within the Colombo Stock Exchange.
 
-**Highlights**
+**Focus**
 
-* Modern web interface
-* Scheduling workflows
-* Resource allocation
-* Full-stack architecture
+`Graph Neural Networks` `Causal ML` `Financial Networks` `Data Science`
 
-`TypeScript` `Next.js` `Node.js`
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Web Projects
+
+Web applications covering modern frontend development, backend systems, APIs, databases, and end-to-end application architecture.
+
+**Focus**
+
+`React` `Next.js` `Node.js` `TypeScript` `Databases`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗼 Paris Drive 3D
+
+A Paris-inspired interactive 3D driving simulation built from scratch using **C++ and OpenGL**.
+
+Features multiple camera perspectives, vehicle controls, textured environments, animated traffic lights, and custom 3D geometry.
+
+**Focus**
+
+`C++` `OpenGL` `3D Graphics` `Simulation`
 
 </td>
 </tr>
@@ -133,63 +123,64 @@ A full-stack resource-management platform built for managing faculty resources a
 
 ---
 
-## 🛠 Tech I Work With
+## 🧰 Tech Stack
 
-<div align="center">
+<p align="center">
 
-### Languages
+**AI · ML · Data**
 
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
 
-### Development
+**Software Development**
 
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nextjs,nodejs&theme=dark" />
 
-### Visual & Systems
+**Data · Infrastructure · Tools**
 
-![OpenGL](https://img.shields.io/badge/OpenGL-111827?style=for-the-badge\&logo=opengl\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,postman&theme=dark" />
 
-</div>
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Engineering Activity
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarahjayasekara&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahjayasekara&layout=compact&hide_border=true&theme=transparent">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarahjayasekara&show_icons=true&hide_border=true&theme=transparent" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahjayasekara&layout=compact&hide_border=true&theme=transparent" height="170">
-
-</div>
-
----
-
-## 🎯 Current Direction
-
-I'm especially interested in projects involving:
-
-* Computer graphics and interactive 3D systems
-* Computer vision
-* Full-stack product development
-* Software engineering
-* Building things that are visually interesting and technically solid
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahjayasekara&theme=github-compact&hide_border=true&area=true" width="95%">
+</p>
 
 ---
 
-<div align="center">
+## 🧠 Areas I'm Exploring
 
-### Build. Experiment. Improve.
+```text
+Machine Learning        →  intelligent models & applied AI
+Data Science            →  extracting insight from complex data
+Graph Learning          →  networks, causality & propagation
+Software Engineering    →  scalable and maintainable systems
+Quality Engineering     →  automation, APIs & software reliability
+Computer Vision         →  learning from visual information
+```
 
-</div>
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+**Sarathi Jayasekara**
+
+<a href="mailto:sarathijayasekara9@gmail.com">Email</a>
+ •  <a href="https://linkedin.com/in/sj7b017a221">LinkedIn</a>
+ •  <a href="https://github.com/sarahjayasekara">GitHub</a>
+
+</p>
+
+<p align="center">
+  <sub>Building at the intersection of data, intelligence and software.</sub>
+</p>
