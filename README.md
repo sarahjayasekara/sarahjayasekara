@@ -142,21 +142,22 @@ Features multiple camera perspectives, vehicle controls, textured environments, 
 ---
 
 
-## 🧠 Areas I'm Exploring
-Applied AI → intelligent systems for real-world problems
+## 🧠 Technical Focus
+
+**Applied AI & Deep Learning** → building practical intelligent systems with modern ML architectures
 <br><br>
-LLMs & RAG → agents, retrieval & contextual reasoning
+**LLMs, RAG & AI Agents** → retrieval, semantic search & agentic workflows
 <br><br>
-Causal & Graph ML → discovery, networks & shock propagation
+**Causal & Graph ML** → causal discovery, financial networks & shock propagation
 <br><br>
-NLP → information extraction & language understanding
+**Natural Language Processing** → information extraction, NER & contextual language modeling
 <br><br>
-Computer Vision → deep learning from visual data
+**Computer Vision** → image classification, transfer learning & visual recognition
 <br><br>
-Data Science → modeling, experimentation & insight
+**Data Science** → preprocessing, feature engineering, modeling & evaluation
 <br><br>
-Software Engineering → reliable, scalable & maintainable systems
+**Software Engineering** → APIs, backend systems, full-stack development & maintainable software
 <br><br>
-Quality Engineering → automation, APIs & software reliability
+**Quality Engineering** → test automation, API testing & software reliability
 
 
