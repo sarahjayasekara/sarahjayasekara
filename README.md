@@ -2,7 +2,9 @@
 
 <h1>Sarathi Jayasekara</h1>
 
-### `AI/ML` · `DATA SCIENCE` · `SOFTWARE ENGINEERING` · `QA`
+<h3>
+AI/ML &nbsp;•&nbsp; DATA SCIENCE &nbsp;•&nbsp; SOFTWARE ENGINEERING &nbsp;•&nbsp; QUALITY ASSURANCE
+</h3>
 
 **Building intelligent systems from data, models, and reliable software.**
 
