@@ -14,7 +14,7 @@ Sarathi Jayasekara
 </p>
 
 <p align="center">
-  <a href="mailto:sarathijayasekara9@gmail.com">
+<a href="mailto:sarathijayasekara9@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-18181B?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/sj7b017a221">
@@ -133,18 +133,6 @@ Features multiple camera perspectives, vehicle controls, textured environments, 
 
 ---
 
-## 📊 Engineering Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarahjayasekara&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahjayasekara&layout=compact&hide_border=true&theme=transparent">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahjayasekara&theme=github-compact&hide_border=true&area=true" width="95%">
-</p>
-
----
 
 ## 🧠 Areas I'm Exploring
 
@@ -164,7 +152,9 @@ Quality Engineering    →  automation, APIs & software reliability
 
 **Sarathi Jayasekara**
 
-<a href="mailto:sarathijayasekara9@gmail.com">Email</a>
+<a href="mailto:sarathijayasekara9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-18181B?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
  •  <a href="https://linkedin.com/in/sj7b017a221">LinkedIn</a>
  •  <a href="https://github.com/sarahjayasekara">GitHub</a>
 
