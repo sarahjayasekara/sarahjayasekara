@@ -1,10 +1,12 @@
 <div align="center">
 
-### `AI/ML` · `DATA` · `SOFTWARE ENGINEERING`
+<h1>Sarathi Jayasekara</h1>
+
+### `AI/ML` · `DATA SCIENCE` · `SOFTWARE ENGINEERING`
 
 **Building intelligent systems from data, models, and reliable software.**
 
-Final-year Computer Science undergraduate focused on **Applied AI, Machine Learning, Data Science, and Software Engineering.**
+Final year Computer Science undergraduate focused on **Applied AI, Machine Learning, Data Science, and Software Engineering.**
 
 <br>
 
@@ -22,9 +24,9 @@ Final-year Computer Science undergraduate focused on **Applied AI, Machine Learn
 
 <br><br>
 
-`Deep Learning` · `NLP` · `LLMs & RAG` · `Causal ML` · `Graph Neural Networks` · `Computer Vision`
 
 </div>
+
 
 
 ---
