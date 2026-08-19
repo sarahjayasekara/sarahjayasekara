@@ -32,7 +32,6 @@ Final year Computer Science undergraduate
 </div>
 
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -41,7 +40,7 @@ Final year Computer Science undergraduate
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Causal GNN Framework For Colombo Stock Exchange
+### 📈 Causal GNN Framework for Colombo Stock Exchange
 
 An ongoing final-year research project developing a **Causal Graph Neural Network framework** to model financial dependencies, influence, and shock propagation within the Colombo Stock Exchange.
 
@@ -52,8 +51,6 @@ The research combines causal discovery with financial, macroeconomic, and news s
 `Graph Neural Networks` `Causal Discovery` `NOTEARS` `Financial ML` `Data Science`
 
 </td>
-
-<td width="50%" valign="top">
 
 <td width="50%" valign="top">
 
@@ -68,6 +65,10 @@ Built semantic code search using **Qdrant** and agentic workflows with **LangGra
 `Python` `LangGraph` `LangChain` `LLM APIs` `Qdrant` `FastAPI` `Docker`
 
 </td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🔬 Biomedical Named Entity Recognition
 
@@ -124,7 +125,6 @@ A software quality engineering project focused on building reusable automated te
 </table>
 
 ---
-
 
 ## 🧰 Tech Stack
 
