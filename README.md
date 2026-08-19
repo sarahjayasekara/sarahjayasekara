@@ -3,7 +3,7 @@
 <h1>Sarathi Jayasekara</h1>
 
 <h3>
-AI/ML &nbsp;•&nbsp; DATA SCIENCE &nbsp;•&nbsp; SOFTWARE ENGINEERING &nbsp;•&nbsp; QUALITY ASSURANCE
+AI/ML &nbsp;•&nbsp; SOFTWARE ENGINEERING  &nbsp;•&nbsp; DATA SCIENCE
 </h3>
 
 
