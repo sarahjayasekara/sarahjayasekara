@@ -41,17 +41,33 @@ Final year Computer Science undergraduate
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ QA Automation & API Testing Framework
+### 📈 Causal GNN Framework For Colombo Stock Exchange
 
-A software quality engineering project focused on building reusable automated testing workflows for application and API validation.
+An ongoing final-year research project developing a **Causal Graph Neural Network framework** to model financial dependencies, influence, and shock propagation within the Colombo Stock Exchange.
+
+The research combines causal discovery with financial, macroeconomic, and news sentiment data to build interpretable market relationship graphs.
 
 **Focus**
 
-`QA Automation` `API Testing` `Test Engineering`
+`Graph Neural Networks` `Causal Discovery` `NOTEARS` `Financial ML` `Data Science`
 
 </td>
 
 <td width="50%" valign="top">
+
+<td width="50%" valign="top">
+
+### 🤖 AI Software Engineering Agent
+
+An **LLM-powered software engineering agent** for GitHub repository analysis, contextual code retrieval, and issue resolution.
+
+Built semantic code search using **Qdrant** and agentic workflows with **LangGraph**, with a FastAPI backend, Docker deployment, and retrieval evaluation.
+
+**Focus**
+
+`Python` `LangGraph` `LangChain` `LLM APIs` `Qdrant` `FastAPI` `Docker`
+
+</td>
 
 ### 🔬 Biomedical Named Entity Recognition
 
@@ -62,30 +78,18 @@ An NLP pipeline for identifying and extracting biomedical entities from unstruct
 `NLP` `Named Entity Recognition` `Machine Learning` `Biomedical AI`
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🍃 Tea Leaf Disease Classifier
 
-A computer vision system for identifying diseases from tea leaf images using machine learning techniques.
+A deep learning image classification system for detecting tea leaf diseases using **ResNet50 transfer learning and PyTorch**.
+
+Built with image augmentation and fine-tuning to improve feature extraction and generalization on a small labelled dataset.
 
 **Focus**
 
-`Computer Vision` `Deep Learning` `Image Classification`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 Causal GNN — Colombo Stock Exchange
-
-A Causal Graph Neural Network framework for modelling **influence and shock propagation** within the Colombo Stock Exchange.
-
-**Focus**
-
-`Graph Neural Networks` `Causal ML` `Financial Networks` `Data Science`
+`PyTorch` `ResNet50` `Computer Vision` `Deep Learning` `Image Classification`
 
 </td>
 </tr>
@@ -93,33 +97,34 @@ A Causal Graph Neural Network framework for modelling **influence and shock prop
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack Web Projects
+### 🏬 Kandy City Centre — Smart Mall Platform
 
-Web applications covering modern frontend development, backend systems, APIs, databases, and end-to-end application architecture.
+A full-stack web platform developed for **Kandy City Centre**, providing digital shop discovery, customer communication, mall information, and management functionality.
+
+Built with a React frontend, Spring Boot REST APIs, and MySQL, with features including shop search, customer inquiry management, and email communication.
 
 **Focus**
 
-`React` `Next.js` `Node.js` `TypeScript` `Databases`
+`React` `Spring Boot` `MySQL` `REST APIs` `Full-Stack Development`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🗼 Paris Drive 3D
+### 👁️ QA Automation & API Testing Framework
 
-A Paris-inspired interactive 3D driving simulation built from scratch using **C++ and OpenGL**.
-
-Features multiple camera perspectives, vehicle controls, textured environments, animated traffic lights, and custom 3D geometry.
+A software quality engineering project focused on building reusable automated testing workflows for application and API validation.
 
 **Focus**
 
-`C++` `OpenGL` `3D Graphics` `Simulation`
+`QA Automation` `API Testing` `Test Engineering`
 
 </td>
 </tr>
 </table>
 
 ---
+
 
 ## 🧰 Tech Stack
 
